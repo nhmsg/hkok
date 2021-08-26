@@ -6,9 +6,9 @@
 
 ### 以下内容是根据原作者项目说明进行相应修改，方便初学者小白们理解！
 
-TG群：https://t.me/joinchat/nrUoeEJV_9UxNDhl
+#### TG群：https://t.me/joinchat/nrUoeEJV_9UxNDhl
 
-YouTube频道：https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w
+#### YouTube频道：https://www.youtube.com/channel/UCxukdnZiXnTFvjF5B5dvJ5w
 
 
 ### 详细视频教程YouTube：更新中
