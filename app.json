@@ -1,6 +1,6 @@
 {
     "name": "hkok",
-    "description": "vless vmess deploy on heroku",
+    "description": "hkok",
     "keywords": ["vless vmess trojan shadowsocks socks tor"],
     "env": {
         "AA": {
